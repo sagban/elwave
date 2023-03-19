@@ -8,6 +8,8 @@ import Footer from './components/footer';
 import { BrowserRouter as Router, Routes as Switch, Route, Link } from 'react-router-dom';
 import { ReactNotifications } from 'react-notifications-component';
 import 'react-notifications-component/dist/theme.css';
+import FindShade from './pages/findshade';
+import PlayColor from './pages/playcolor';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 document.title = "MY APP";
@@ -23,7 +25,12 @@ root.render(
         <Switch>
           <Route exact path='/about' element={<About />} />
         </Switch>
-
+        <Switch>
+          <Route exact path='/find-lipshade' element={<FindShade />} />
+        </Switch>
+        <Switch>
+          <Route exact path='/listen-colors' element={<PlayColor />} />
+        </Switch>
       </Router>
       <Footer />
     </div>

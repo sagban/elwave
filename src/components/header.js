@@ -16,15 +16,19 @@ const Header = () => {
                         <div class="s-header-v2__navbar-col s-header-v2__navbar-col-width--130">
                             <div class="s-header-v2__logo">
                                 <a href="/" class="s-header-v2__logo-link">
-                                    <img class="s-header-v2__logo-img s-header-v2__logo-img--default" src="/logo.png" alt="logo" height="24" />
+                                    <img class="s-header-v2__logo-img s-header-v2__logo-img--default" src="/logo.png" alt="logo" height="42" />
                                     <img class="s-header-v2__logo-img s-header-v2__logo-img--shrink" src="/logo-sm.png" alt="logo" height="48" />
                                 </a>
                             </div>
                         </div>
+                        
                         <div class="s-header-v2__navbar-col s-header-v2__navbar-col--right" style={{ marginRight: 0 }}>
                             <div class="collapse navbar-collapse s-header-v2__navbar-collapse" id="nav-collapse">
                                 <ul class="s-header-v2__nav">
-                                    <li class="s-header-v2__nav-item"><a href="/about" class="s-header-v2__nav-link">About</a></li>
+                                <li class="s-header-v2__nav-item"><a href="/find-lipshade" class="s-header-v2__nav-link">Lipshade Finder</a></li>
+                                    <li className="s-header-v2__nav-item"><a href="/listen-colors" class="s-header-v2__nav-link">Listen Colors</a>
+                                    </li>
+                                <li class="s-header-v2__nav-item"><a href="/about" class="s-header-v2__nav-link">About</a></li>
                                     <li className="s-header-v2__nav-item"><a href="https://github.com/sagban/constant" class="s-header-v2__nav-link">GitHub</a>
                                     </li>
                                 </ul>
