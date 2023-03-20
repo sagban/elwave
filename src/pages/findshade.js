@@ -24,6 +24,7 @@ const FindShade = () => {
             webcamRef.current.video.readyState === 4
           ){
             const imageSrc = webcamRef.current.getScreenshot();
+            console.log(imageSrc);
             setImage(imageSrc);
           }
         goForward();
