@@ -14,7 +14,7 @@ const Home = () => {
                     <div class="g-margin-b-30--xs g-margin-t-60--xs">
                         <h1 class="g-font-size-36--xs g-font-size-45--sm g-font-size-55--sm g-font-size-80--lg g-color--primary g-font-weight--600">EL Wave</h1>
                         <h3>Estee Lauder</h3>
-                        <p class="g-font-size-20--xs g-font-weight-800--xs g-font-size-22--md g-color--dark g-margin-b-0--xs"><b>A full-scaled AI tool for radiology clinics and hospitals that can automate the process of security log-in, PPE safety check for medical staff and assist radiologists determine sign of COVID-19 on chest X-ray images with high accuracy indicates pneumonia.</b></p>
+                        <p class="g-font-size-20--xs g-font-weight-800--xs g-font-size-22--md g-color--dark g-margin-b-0--xs"><b>A full-scaled AI tool to communicate with color-blind people and get personalized lip shade colors. </b></p>
                     </div>
                     <span class="g-display-block--xs g-display-inline-block--lg g-margin-b-10--xs g-margin-b-0--lg">
                         <a href="/find-lipshade" class="text-uppercase g-width-200--xs btn-block s-btn s-btn--sm s-btn--primary-bg g-padding-x-50--xs g-margin-b-20--xs">
