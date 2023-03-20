@@ -4,7 +4,7 @@ from sklearn.cluster import KMeans
 from collections import Counter
 import imutils
 import pprint
-from webcolors import *
+import webcolors
 import base64
 
 def extractSkin(image):

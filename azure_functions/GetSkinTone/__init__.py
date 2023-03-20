@@ -1,5 +1,5 @@
 import logging
-
+import json
 import azure.functions as func
 from Utils.utils import *
 
@@ -17,7 +17,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
         tone = [round(x) for x in tone]
         skin_tone = identify_skin_tone(tone)
         return func.HttpResponse(
-            json.dumps({skin_tone}),
+            json.dumps({"skintone":skin_tone}),
             mimetype='application/json',
             status_code=200
         )
