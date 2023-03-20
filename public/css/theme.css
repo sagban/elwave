@@ -171,7 +171,7 @@ a:focus, a:hover {
 ------------------------------------*/
 /* Promo Block v2 */
 .s-promo-block-v2:before {
-  background-image: linear-gradient(145deg, rgba(152, 119, 234, 0.7) -25%, #D93108 100%);
+  background-image: linear-gradient(90deg, rgba(250, 145, 145, 0.9) -25%, #00000000 100%);
   background-repeat: repeat-x;
 }
 

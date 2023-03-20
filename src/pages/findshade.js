@@ -155,7 +155,7 @@ const FindShade = () => {
                 :""}
             </div>
             <button class="text-uppercase s-btn s-btn--xs s-btn--primary-bg g-padding-x-30--xs g-margin-t-40--xs" onClick={()=> startOver()}>
-                <b>Start Over</b><span class="g-margin-l-5--xs material-icons-outlined">east</span>
+                <b>Start Over</b><span class="g-margin-l-5--xs material-icons-outlined">refresh</span>
             </button>
         </div>:""}
         

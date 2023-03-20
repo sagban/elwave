@@ -62,7 +62,8 @@
             "price": "2950",
             "link": "https://www.esteelauder.in/product/631/29657/product-catalog/makeup/pure-color-envy/sculpting-lipstick?gclid=CjwKCAjw5dqgBhBNEiwA7PryaMqs9q_0Cwc_pnkhTp6JiLh9cSWo86jbFsIQOfkh90lUVMCCiMXqaxoC1twQAvD_BwE#/shade/Peerless",
             "finish": "matte",
-            "skintone": "medium"
+            "skintone": "medium",
+            "color":"#ff0000"
         },
         {
             "title": "Pure Color Envy",
@@ -70,7 +71,8 @@
             "price": "2950",
             "link": "https://www.esteelauder.in/product/631/29657/product-catalog/makeup/pure-color-envy/sculpting-lipstick?gclid=CjwKCAjw5dqgBhBNEiwA7PryaMqs9q_0Cwc_pnkhTp6JiLh9cSWo86jbFsIQOfkh90lUVMCCiMXqaxoC1twQAvD_BwE#/shade/Peerless",
             "finish": "matte",
-            "skintone": "medium"
+            "skintone": "medium",
+            "color":"#ff0000"
         },
         {
             "title": "Pure Color Whipped with Moringa Butter",
@@ -78,7 +80,8 @@
             "price": "3400",
             "link": "https://www.esteelauder.in/product/631/88314/product-catalog/makeup/pure-color-whipped-matte-lip-color-with-moringa-butter?gclid=CjwKCAjw5dqgBhBNEiwA7PryaH4siQ2O-gpXieMEmadFoIEBiO5c4ZfaJADf4eY8WLw0J0k_B2OQKBoC6XAQAvD_BwE#/shade/Cloud_Nine",
             "finish": "shiny",
-            "skintone": "medium"
+            "skintone": "medium",
+            "color":"#ff0000"
         },
         {
             "title": "Pure Color Whipped with Moringa Butter",

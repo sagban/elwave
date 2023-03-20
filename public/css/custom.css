@@ -4,6 +4,12 @@
     background-repeat: no-repeat !important;
     /* background-position: 85% 50% !important; */
 }
+.home2{
+    background: url('../img/background2.jpg');
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    /* background-position: 85% 50% !important; */
+}
 
 .home-black{
     background: url('../img/background-dark.png');
@@ -37,4 +43,17 @@
 
 .react-datepicker-popper{
     z-index: 1000 !important;
+}
+
+.music-box{
+    display: flex;
+    width: 100%;
+    cursor: pointer;
+    transition: 0.2s all;
+}
+
+.music-key{
+    width: auto;
+    height: 200px;
+    min-width: 120px;
 }

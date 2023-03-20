@@ -12,7 +12,7 @@ import FindShade from './pages/findshade';
 import PlayColor from './pages/playcolor';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-document.title = "MY APP";
+document.title = "EL Wave | Estee Lauder";
 root.render(
   <React.StrictMode>
     <div>
